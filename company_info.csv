@@ -1,0 +1,401 @@
+company_id,nace_code,location
+A1,U,East Flanders
+A2,D,East Flanders
+A3,A,Flemish Brabant
+A4,I,Walloon Brabant
+A5,H,Antwerp
+A6,H,Limburg
+A7,E,West Flanders
+A8,D,Walloon Brabant
+A9,R,Flemish Brabant
+A10,C,Luxembourg
+A11,S,Flemish Brabant
+A12,N,Antwerp
+A13,B,Liège
+A14,A,Limburg
+A15,C,Antwerp
+A16,G,Limburg
+A17,H,Hainaut
+A18,Q,Brussels
+A19,T,Hainaut
+A20,A,Brussels
+A21,R,East Flanders
+A22,G,Limburg
+A23,U,Walloon Brabant
+A24,R,Luxembourg
+A25,N,West Flanders
+A26,H,Flemish Brabant
+A27,O,Hainaut
+A28,S,Flemish Brabant
+A29,I,Flemish Brabant
+A30,A,Luxembourg
+A31,F,Antwerp
+A32,N,Flemish Brabant
+A33,K,Limburg
+A34,I,Luxembourg
+A35,E,Brussels
+A36,G,Hainaut
+A37,K,Liège
+A38,D,Flemish Brabant
+A39,C,East Flanders
+A40,M,Luxembourg
+A41,D,Antwerp
+A42,L,Namur
+A43,L,Hainaut
+A44,T,Hainaut
+A45,I,Namur
+A46,B,Limburg
+A47,O,Liège
+A48,R,Hainaut
+A49,D,Hainaut
+A50,M,Antwerp
+A51,C,Brussels
+A52,R,Hainaut
+A53,J,Luxembourg
+A54,U,Limburg
+A55,T,Liège
+A56,L,East Flanders
+A57,S,Liège
+A58,G,Limburg
+A59,C,Brussels
+A60,B,Walloon Brabant
+A61,H,Luxembourg
+A62,J,Brussels
+A63,C,Walloon Brabant
+A64,H,Limburg
+A65,D,Antwerp
+A66,M,East Flanders
+A67,I,Liège
+A68,O,Flemish Brabant
+A69,U,West Flanders
+A70,L,Liège
+A71,F,Antwerp
+A72,L,East Flanders
+A73,L,West Flanders
+A74,G,Luxembourg
+A75,I,Limburg
+A76,U,Limburg
+A77,C,Luxembourg
+A78,T,West Flanders
+A79,U,Walloon Brabant
+A80,F,East Flanders
+A81,R,Luxembourg
+A82,H,West Flanders
+A83,F,Hainaut
+A84,O,Liège
+A85,M,Antwerp
+A86,I,Luxembourg
+A87,U,Antwerp
+A88,R,Walloon Brabant
+A89,H,Walloon Brabant
+A90,K,Brussels
+A91,B,Brussels
+A92,H,Hainaut
+A93,B,Limburg
+A94,K,Luxembourg
+A95,M,East Flanders
+A96,I,Brussels
+A97,C,Limburg
+A98,G,West Flanders
+A99,S,Limburg
+A100,K,Brussels
+A101,G,East Flanders
+A102,U,Liège
+A103,P,Walloon Brabant
+A104,M,Liège
+A105,U,Brussels
+A106,O,Luxembourg
+A107,E,Limburg
+A108,I,Luxembourg
+A109,E,Liège
+A110,H,Walloon Brabant
+A111,R,Flemish Brabant
+A112,R,Hainaut
+A113,I,Luxembourg
+A114,S,Brussels
+A115,N,Luxembourg
+A116,S,Brussels
+A117,M,Flemish Brabant
+A118,L,West Flanders
+A119,H,West Flanders
+A120,E,Liège
+A121,Q,Luxembourg
+A122,P,Walloon Brabant
+A123,C,Antwerp
+A124,B,Liège
+A125,D,Liège
+A126,E,Hainaut
+A127,U,Luxembourg
+A128,F,West Flanders
+A129,N,West Flanders
+A130,T,Brussels
+A131,C,Limburg
+A132,M,Namur
+A133,M,Namur
+A134,T,Namur
+A135,O,Brussels
+A136,Q,Hainaut
+A137,I,Walloon Brabant
+A138,R,Namur
+A139,A,Flemish Brabant
+A140,D,Brussels
+A141,R,East Flanders
+A142,I,Liège
+A143,U,Walloon Brabant
+A144,K,Brussels
+A145,D,Brussels
+A146,J,West Flanders
+A147,N,Limburg
+A148,F,East Flanders
+A149,O,Hainaut
+A150,A,Brussels
+A151,I,Liège
+A152,Q,Hainaut
+A153,F,Hainaut
+A154,Q,Flemish Brabant
+A155,D,Antwerp
+A156,U,Antwerp
+A157,J,Hainaut
+A158,U,Namur
+A159,Q,West Flanders
+A160,T,East Flanders
+A161,G,Namur
+A162,E,Luxembourg
+A163,L,Brussels
+A164,F,West Flanders
+A165,R,Hainaut
+A166,Q,Luxembourg
+A167,A,Namur
+A168,T,Luxembourg
+A169,K,Hainaut
+A170,P,Flemish Brabant
+A171,A,Brussels
+A172,D,Antwerp
+A173,L,East Flanders
+A174,J,Luxembourg
+A175,H,Hainaut
+A176,B,Flemish Brabant
+A177,H,Walloon Brabant
+A178,S,Namur
+A179,C,Antwerp
+A180,C,Walloon Brabant
+A181,P,Hainaut
+A182,C,East Flanders
+A183,R,Namur
+A184,E,Flemish Brabant
+A185,E,Namur
+A186,P,Brussels
+A187,R,Walloon Brabant
+A188,F,Walloon Brabant
+A189,I,West Flanders
+A190,Q,Limburg
+A191,T,Namur
+A192,N,West Flanders
+A193,G,Walloon Brabant
+A194,R,Luxembourg
+A195,G,Walloon Brabant
+A196,J,Namur
+A197,M,Flemish Brabant
+A198,U,Namur
+A199,L,Namur
+A200,O,Liège
+A201,Q,Hainaut
+A202,O,Brussels
+A203,D,Liège
+A204,H,Walloon Brabant
+A205,H,Namur
+A206,C,Brussels
+A207,K,Hainaut
+A208,A,Liège
+A209,S,Namur
+A210,R,East Flanders
+A211,H,Liège
+A212,S,Hainaut
+A213,H,Liège
+A214,A,Limburg
+A215,C,Limburg
+A216,U,Walloon Brabant
+A217,B,East Flanders
+A218,H,Flemish Brabant
+A219,C,Flemish Brabant
+A220,B,Hainaut
+A221,K,Luxembourg
+A222,C,Flemish Brabant
+A223,Q,Hainaut
+A224,H,East Flanders
+A225,I,Luxembourg
+A226,P,Luxembourg
+A227,G,Limburg
+A228,R,Walloon Brabant
+A229,E,Namur
+A230,S,Luxembourg
+A231,S,Antwerp
+A232,P,Hainaut
+A233,H,Luxembourg
+A234,P,Luxembourg
+A235,N,West Flanders
+A236,G,Antwerp
+A237,D,West Flanders
+A238,D,Luxembourg
+A239,N,Namur
+A240,L,Antwerp
+A241,N,Limburg
+A242,N,Liège
+A243,O,Luxembourg
+A244,B,Luxembourg
+A245,U,Walloon Brabant
+A246,U,Walloon Brabant
+A247,D,West Flanders
+A248,B,Hainaut
+A249,M,Namur
+A250,K,Hainaut
+A251,D,Liège
+A252,H,Luxembourg
+A253,G,Namur
+A254,G,Antwerp
+A255,R,Luxembourg
+A256,O,Limburg
+A257,E,Brussels
+A258,N,Brussels
+A259,F,Luxembourg
+A260,I,Flemish Brabant
+A261,O,Namur
+A262,H,Flemish Brabant
+A263,C,West Flanders
+A264,O,Walloon Brabant
+A265,R,Antwerp
+A266,D,Luxembourg
+A267,B,West Flanders
+A268,U,West Flanders
+A269,R,Brussels
+A270,A,Antwerp
+A271,C,East Flanders
+A272,H,Brussels
+A273,F,Luxembourg
+A274,N,Flemish Brabant
+A275,P,Namur
+A276,P,Flemish Brabant
+A277,G,Antwerp
+A278,M,Liège
+A279,B,Luxembourg
+A280,F,Limburg
+A281,M,Hainaut
+A282,A,Namur
+A283,M,Limburg
+A284,I,Limburg
+A285,O,Luxembourg
+A286,J,Liège
+A287,N,Luxembourg
+A288,R,Liège
+A289,P,East Flanders
+A290,E,Namur
+A291,G,Antwerp
+A292,J,Walloon Brabant
+A293,G,Antwerp
+A294,B,Limburg
+A295,S,Hainaut
+A296,R,Brussels
+A297,B,East Flanders
+A298,K,Brussels
+A299,B,Antwerp
+A300,B,Antwerp
+A301,S,Hainaut
+A302,P,Hainaut
+A303,Q,Antwerp
+A304,Q,West Flanders
+A305,F,Flemish Brabant
+A306,B,Hainaut
+A307,Q,Flemish Brabant
+A308,C,Namur
+A309,F,Brussels
+A310,C,East Flanders
+A311,T,West Flanders
+A312,C,Hainaut
+A313,H,Namur
+A314,M,Liège
+A315,D,Limburg
+A316,S,Flemish Brabant
+A317,H,West Flanders
+A318,S,West Flanders
+A319,T,East Flanders
+A320,B,Flemish Brabant
+A321,T,Liège
+A322,C,East Flanders
+A323,N,West Flanders
+A324,S,Antwerp
+A325,S,Liège
+A326,Q,West Flanders
+A327,K,Brussels
+A328,I,Luxembourg
+A329,G,Luxembourg
+A330,K,Hainaut
+A331,H,East Flanders
+A332,I,West Flanders
+A333,M,Brussels
+A334,E,Hainaut
+A335,U,East Flanders
+A336,J,Liège
+A337,O,Brussels
+A338,K,West Flanders
+A339,C,East Flanders
+A340,A,West Flanders
+A341,O,Antwerp
+A342,T,Limburg
+A343,S,Walloon Brabant
+A344,D,Luxembourg
+A345,C,Brussels
+A346,R,Limburg
+A347,G,East Flanders
+A348,Q,Walloon Brabant
+A349,I,Brussels
+A350,E,Limburg
+A351,L,Antwerp
+A352,C,Luxembourg
+A353,H,Namur
+A354,L,East Flanders
+A355,J,Luxembourg
+A356,F,Limburg
+A357,O,Brussels
+A358,R,Namur
+A359,J,Flemish Brabant
+A360,T,Luxembourg
+A361,U,Flemish Brabant
+A362,Q,Walloon Brabant
+A363,A,Brussels
+A364,R,Liège
+A365,J,West Flanders
+A366,D,Walloon Brabant
+A367,E,Namur
+A368,I,Namur
+A369,D,Luxembourg
+A370,D,West Flanders
+A371,R,Liège
+A372,E,Limburg
+A373,I,Hainaut
+A374,J,East Flanders
+A375,T,Liège
+A376,G,Namur
+A377,K,Hainaut
+A378,G,Namur
+A379,U,West Flanders
+A380,I,West Flanders
+A381,Q,Brussels
+A382,P,Luxembourg
+A383,I,Limburg
+A384,B,Antwerp
+A385,C,Namur
+A386,U,Limburg
+A387,N,Flemish Brabant
+A388,I,Namur
+A389,B,Hainaut
+A390,A,Limburg
+A391,K,Liège
+A392,E,Limburg
+A393,U,Liège
+A394,I,West Flanders
+A395,F,Liège
+A396,O,Walloon Brabant
+A397,R,Antwerp
+A398,N,Walloon Brabant
+A399,R,Hainaut
+A400,A,East Flanders
