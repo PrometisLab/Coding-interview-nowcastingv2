@@ -45,7 +45,7 @@ While this is completely fake data, treat it as if it represents all financial t
 
 ## Challenge Objective
 
-Your challenge is to map the economic activity in Belgium from the data using Python. You are encouraged to take inspiration from the literature (especially the work by Killian Huber and Jens Ludwig on disaggregated economic accounts and Vasco Carvalho on National Accounts).
+Your challenge is to map the economic activity in Belgium from the data using Python. You are encouraged to take inspiration from the literature (especially the work by Killian Huber and Ludwig Straub on [disaggregated economic accounts](https://www.disaggregatedaccounts.com/research_paper) and Vasco Carvalho on [National Accounts](http://vasco-m-carvalho.github.io/pdfs/Buda_et_al_2022_Consumption_online.pdf)).
 
 ### Elements to Consider:
 
